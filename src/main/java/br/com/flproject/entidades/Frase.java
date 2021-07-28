@@ -7,6 +7,7 @@ public class Frase {
 	
 	public Frase(String tecla, String frase) {
 		super();
+
 		this.tecla = tecla;
 		this.frase = frase;
 	}
